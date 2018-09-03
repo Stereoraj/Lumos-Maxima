@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Lumos</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="title_activity_wands">Ollivanders Wand Shop</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="select">SELECT WAND</string>
+
+    <string name="slide_1_title">Lumos Maxima!</string>
+    <string name="slide_1_desc">The easiest way to use flashlight with lots of fun and little bit of Magic!</string>
+
+    <string name="slide_2_title">Tap</string>
+    <string name="slide_2_desc">Tap the screen to turn on/off the flashlight!</string>
+
+    <string name="slide_3_title">Shake</string>
+    <string name="slide_3_desc">Shake the smartphone to turn on/off the flashlight!</string>
+
+    <string name="slide_4_title">Cast the Spell</string>
+    <string name="slide_4_desc">Cast the \"Lumos\" spell to turn on and \"Nox\" to turn of the flashlight!</string>
+
+    <string name="slide_5_title">Choose a Wand</string>
+    <string name="slide_5_desc">Choose your favourite wand from Ollivander\'s Wand Shop!</string>
+    <string name="slide_5_desc1">Select a Wand and let the Magic begin!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="action_aboutus">About Us</string>
+    <string name="action_shareus">Share Us</string>
+    <string name="action_rateus">Rate Us</string>
+    <string name="select_wand">Select a wand</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="about_us">About</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_header_general">General</string>
+
+    <!-- SHARE OPTIONS -->
+    <string name="app_share_title">Share with your friends</string>
+    <string name="app_share_message">Take a look at this app called Lumos Maxima, it works just like a spell in Harry Potter.</string>
+
+    <string name="pref_wand_sound">Sound</string>
+    <string name="pref_wand_light_pos">Light Source</string>
+
+    <string name="wand_1_title">Albus Dumbledore</string>
+    <string name="wand_1_mfg">Death</string>
+    <string name="wand_1_made">NA</string>
+    <string name="wand_1_wood">Elder</string>
+    <string name="wand_1_core">Tail hair of Thestral</string>
+    <string name="wand_1_length">15\"</string>
+
+    <string name="wand_2_title">Ronald Weasley</string>
+    <string name="wand_2_mfg">Ollivander</string>
+    <string name="wand_2_made">NA</string>
+    <string name="wand_2_wood">Ash</string>
+    <string name="wand_2_core">Unicorn Hair</string>
+    <string name="wand_2_length">12\"</string>
+
+    <string name="wand_3_title">Harry Potter</string>
+    <string name="wand_3_mfg">Ollivander</string>
+    <string name="wand_3_made">Pre 1938</string>
+    <string name="wand_3_wood">Holly</string>
+    <string name="wand_3_core">Phoenix Feather</string>
+    <string name="wand_3_length">11\"</string>
+
+    <string name="wand_4_title">Hermione Granger</string>
+    <string name="wand_4_mfg">Ollivander</string>
+    <string name="wand_4_made">Pre 1992</string>
+    <string name="wand_4_wood">Vine</string>
+    <string name="wand_4_core">Dragon Heartstring</string>
+    <string name="wand_4_length">10 3/4\"</string>
+
+    <string name="wand_5_title">Lord Voldemort</string>
+    <string name="wand_5_mfg">Ollivander</string>
+    <string name="wand_5_made">Pre 1938</string>
+    <string name="wand_5_wood">Yew</string>
+    <string name="wand_5_core">Phoenix Feather</string>
+    <string name="wand_5_length">13 1/2\"</string>
+
+    <!-- About -->
+    <string name="about_appName">Lumos Maxima</string>
+    <string name="about_version">Version</string>
+    <string name="about_copywrite">&#169;2016 Ashok Kumar Shrestha</string>
+
+    <string name="back">BACK</string>
+    <string name="instruction">INSTRUCTIONS</string>
+
+</resources>

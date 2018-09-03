@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lumosmaximus.ashokkumarshrestha.lumosmaximus">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_hatlogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.welcome">
+        <activity
+            android:name="com.lumosmaximus.ashokkumarshrestha.lumosmaximus.WelcomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.lumosmaximus.ashokkumarshrestha.lumosmaximus.MainActivity"
+            android:label="@string/title_activity_welcome"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.welcome" />
+        <activity
+            android:name="com.lumosmaximus.ashokkumarshrestha.lumosmaximus.UserSettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.settings"/>
+        <activity
+            android:name="com.lumosmaximus.ashokkumarshrestha.lumosmaximus.AboutActivity"
+            android:label="About"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.welcome" />
+
+        <activity android:name="com.lumosmaximus.ashokkumarshrestha.lumosmaximus.WandsActivity"
+            android:label="@string/title_activity_wands"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.welcome" />
+    </application>
+
+</manifest>
